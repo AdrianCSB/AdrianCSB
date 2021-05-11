@@ -3,6 +3,7 @@
 - Estou aprendendo a linguagem .lua porém voltado ao público do fiveM.
 - Estarei postando meus códigos e scripts por aqui, mas qualquer coisa pode me chamar em meu discord particular Adrian.C#8657
 - Valeu!
+- Meu Discord: Adrian.C#8657
 
 - Hello how are you?
 - My name is Adrian!
