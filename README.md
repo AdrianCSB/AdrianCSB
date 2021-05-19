@@ -1,6 +1,6 @@
 - Olá, tudo bem?
 - Pode me chamar de Cardoso
-- Estou aprendendo programação, atualmente ando aprendendo a programar em lua voltado ao GTAV FIVEM.
+- Atualmente estou aprendendo a programar em lua, mas voltado ao GTA V FIVEM.
 - Mas estou buscando por outras linguagens também como: Java Script, HTML e CSS.
 - Futuramente quero trabalhar como Full Stack.
 - Então estarei postando meus projetos de estudos por aqui.
