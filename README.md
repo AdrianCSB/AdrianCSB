@@ -7,4 +7,4 @@
 - Assim também como Scripts para o fiveM do GTA V.
 - Qualquer coisa pode me chamar em meu discord particular!
 - Valeu!
-- Meu Discord: 
+- Meu Discord: CardosoSB#8657
