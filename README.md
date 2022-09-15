@@ -1,5 +1,5 @@
 - Olá, tudo bem?
 - Me chamo Amanda
-- Atualmente estou buscando conhecimento na linguagem Java Script com as bibliotecas HTML5 e CSS. Para num futuro estar trabalhando como dev em Front End
+- Atualmente estou buscando conhecimento na linguagem Java Script com as bibliotecas HTML5 e CSS. Para no futuro estar trabalhando como Dev em Front End
 - Então estarei postando meus projetos de estudos por aqui.
 - Meu Linkedin: https://www.linkedin.com/in/amanda-cardoso-95b927217/
