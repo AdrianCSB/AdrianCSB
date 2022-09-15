@@ -1,10 +1,5 @@
 - Olá, tudo bem?
-- Pode me chamar de Cardoso
-- Atualmente estou aprendendo a programar em lua, mas voltado ao FIVEM do GTA V.
-- Mas estou buscando por outras linguagens também como: Java Script, HTML e CSS.
-- Futuramente quero trabalhar como Full Stack.
+- Me chamo Amanda
+- Atualmente estou buscando conhecimento na linguagem Java Script com as bibliotecas HTML5 e CSS. Para num futuro estar trabalhando como dev em Front End
 - Então estarei postando meus projetos de estudos por aqui.
-- Assim também como Scripts para o fiveM do GTA V.
-- Qualquer coisa pode me chamar em meu discord particular!
-- Valeu!
-- Meu Discord: CardosoSB#8657
+- Meu Linkedin: https://www.linkedin.com/in/amanda-cardoso-95b927217/
